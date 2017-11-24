@@ -1,0 +1,22 @@
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Stefan2\Stefan2\bin\Debug\Stefan2.exe
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Stefan2\Stefan2\bin\Debug\Stefan2.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Stefan2\Stefan2\obj\x86\Debug\MainWindow.baml
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Stefan2\Stefan2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Stefan2\Stefan2\obj\x86\Debug\App.g.cs
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Stefan2\Stefan2\obj\x86\Debug\Stefan2_MarkupCompile.cache
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Stefan2\Stefan2\obj\x86\Debug\Stefan2.g.resources
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Stefan2\Stefan2\obj\x86\Debug\Stefan.Properties.Resources.resources
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Stefan2\Stefan2\obj\x86\Debug\Stefan2.csproj.GenerateResource.Cache
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Stefan2\Stefan2\obj\x86\Debug\Stefan2.exe
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Stefan2\Stefan2\obj\x86\Debug\Stefan2.pdb
+C:\Users\Stefan-Ivan\Desktop\Projects\Stefan2\Stefan2\obj\x86\Debug\Stefan2.exe
+C:\Users\Stefan-Ivan\Desktop\Projects\Stefan2\Stefan2\obj\x86\Debug\Stefan2.pdb
+C:\Users\Stefan-Ivan\Desktop\Projects\Stefan2\Stefan2\bin\Debug\Stefan2.exe
+C:\Users\Stefan-Ivan\Desktop\Projects\Stefan2\Stefan2\bin\Debug\Stefan2.pdb
+C:\Users\Stefan-Ivan\Desktop\Projects\Stefan2\Stefan2\obj\x86\Debug\MainWindow.baml
+C:\Users\Stefan-Ivan\Desktop\Projects\Stefan2\Stefan2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Stefan-Ivan\Desktop\Projects\Stefan2\Stefan2\obj\x86\Debug\App.g.cs
+C:\Users\Stefan-Ivan\Desktop\Projects\Stefan2\Stefan2\obj\x86\Debug\Stefan2_MarkupCompile.cache
+C:\Users\Stefan-Ivan\Desktop\Projects\Stefan2\Stefan2\obj\x86\Debug\Stefan2.g.resources
+C:\Users\Stefan-Ivan\Desktop\Projects\Stefan2\Stefan2\obj\x86\Debug\Stefan.Properties.Resources.resources
+C:\Users\Stefan-Ivan\Desktop\Projects\Stefan2\Stefan2\obj\x86\Debug\Stefan2.csproj.GenerateResource.Cache
