@@ -1,0 +1,9 @@
+c:\users\stefan-ivan\documents\visual studio 2010\Projects\Program2\Program2\bin\Debug\Program2.exe
+c:\users\stefan-ivan\documents\visual studio 2010\Projects\Program2\Program2\bin\Debug\Program2.pdb
+c:\users\stefan-ivan\documents\visual studio 2010\Projects\Program2\Program2\obj\x86\Debug\Program2.Form1.resources
+c:\users\stefan-ivan\documents\visual studio 2010\Projects\Program2\Program2\obj\x86\Debug\Program2.Properties.Resources.resources
+c:\users\stefan-ivan\documents\visual studio 2010\Projects\Program2\Program2\obj\x86\Debug\Program2.csproj.GenerateResource.Cache
+c:\users\stefan-ivan\documents\visual studio 2010\Projects\Program2\Program2\obj\x86\Debug\Program2.exe
+c:\users\stefan-ivan\documents\visual studio 2010\Projects\Program2\Program2\obj\x86\Debug\Program2.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Program2\Program2\obj\x86\Debug\Program2.csprojResolveAssemblyReference.cache
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Program2\Program2\obj\x86\Debug\Program2.Form2.resources

@@ -1,0 +1,6 @@
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\MyProject7\bin\Debug\MyProject7.exe
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\MyProject7\bin\Debug\MyProject7.pdb
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\MyProject7\obj\x86\Debug\MyProject7.exe
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\MyProject7\obj\x86\Debug\MyProject7.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\MyProject7\MyProject7\obj\x86\Debug\MyProject7.exe
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\MyProject7\MyProject7\obj\x86\Debug\MyProject7.pdb

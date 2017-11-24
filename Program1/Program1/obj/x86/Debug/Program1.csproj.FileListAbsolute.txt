@@ -1,0 +1,8 @@
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Program1\Program1\obj\x86\Debug\Program1.Form1.resources
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Program1\Program1\obj\x86\Debug\Program1.Properties.Resources.resources
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Program1\Program1\obj\x86\Debug\Program1.csproj.GenerateResource.Cache
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Program1\Program1\obj\x86\Debug\Program1.exe
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Program1\Program1\obj\x86\Debug\Program1.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Program1\Program1\obj\x86\Debug\Program1.csprojResolveAssemblyReference.cache

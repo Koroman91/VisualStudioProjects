@@ -1,0 +1,8 @@
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Imager\Imager\bin\Debug\Imager.exe
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Imager\Imager\bin\Debug\Imager.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Imager\Imager\obj\x86\Debug\Imager.Form1.resources
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Imager\Imager\obj\x86\Debug\Imager.Properties.Resources.resources
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Imager\Imager\obj\x86\Debug\Imager.csproj.GenerateResource.Cache
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Imager\Imager\obj\x86\Debug\Imager.exe
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Imager\Imager\obj\x86\Debug\Imager.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Imager\Imager\obj\x86\Debug\Imager.csprojResolveAssemblyReference.cache

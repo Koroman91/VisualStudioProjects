@@ -1,0 +1,4 @@
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\MyProject\bin\Debug\MyProject.exe
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\MyProject\bin\Debug\MyProject.pdb
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\MyProject\obj\x86\Debug\MyProject.exe
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\MyProject\obj\x86\Debug\MyProject.pdb

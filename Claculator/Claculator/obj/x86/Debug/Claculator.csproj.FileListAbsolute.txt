@@ -1,0 +1,14 @@
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\Claculator\bin\Debug\Claculator.exe
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\Claculator\bin\Debug\Claculator.pdb
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\Claculator\obj\x86\Debug\Claculator.Form1.resources
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\Claculator\obj\x86\Debug\Claculator.Properties.Resources.resources
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\Claculator\obj\x86\Debug\Claculator.csproj.GenerateResource.Cache
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\Claculator\obj\x86\Debug\Claculator.exe
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\Claculator\obj\x86\Debug\Claculator.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Claculator\Claculator\obj\x86\Debug\Claculator.exe
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Claculator\Claculator\obj\x86\Debug\Claculator.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Claculator\Claculator\bin\Debug\Claculator.exe
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Claculator\Claculator\bin\Debug\Claculator.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Claculator\Claculator\obj\x86\Debug\Claculator.Form1.resources
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Claculator\Claculator\obj\x86\Debug\Claculator.Properties.Resources.resources
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\Claculator\Claculator\obj\x86\Debug\Claculator.csproj.GenerateResource.Cache
